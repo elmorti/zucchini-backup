@@ -1,0 +1,12 @@
+{
+    "logdir": "",
+    "settings": [
+        {
+            "confignamehere": {
+                "source": "",
+                "destination": "",
+                "parameters": ""
+            }
+        }
+    ]
+}
